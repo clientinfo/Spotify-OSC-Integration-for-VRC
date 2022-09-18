@@ -6,6 +6,29 @@
     <RootNamespace>Spotify_OSC_Integration_for_VRC__New_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>Spotify_icon-icons.com_66783.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Spotify_icon-icons.com_66783.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="VRCOscLib" Version="1.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SharpOSC">
+      <HintPath>bin\Release\net6.0\SharpOSC.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>
