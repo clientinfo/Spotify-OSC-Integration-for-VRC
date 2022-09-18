@@ -14,8 +14,7 @@ Pic ingame:
 
 Pic from tool:
 
-![image](https://user-images.githubusercontent.com/54999075/190462284-5469ec16-a04d-426f-b581-2695bb65ad75.png)
-
+![image](https://user-images.githubusercontent.com/85733422/190915597-bb9dc1fb-05fe-4f0e-8213-29cb9271b6b2.png)
 
 Instructions
 -----------------------
