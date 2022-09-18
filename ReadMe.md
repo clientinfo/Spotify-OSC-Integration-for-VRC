@@ -52,4 +52,5 @@ Credits:
  - https://github.com/ValdemarOrn/SharpOSC (@ValdemarOrn for their great OSC lib which made it easier to send the OSC command for the textbox)
  - https://github.com/ChanyaVRC/VRCOscLib (@ChanyaVRC for their good OSC Lib which made it easier to recieve the avatar params over OSC)
  - Also thanks to @Simon Mourier from stackoverflow for providing an easy to use Class for audio controlling
- - Icons are from the internet and if you are the owner of them and dont want me to use them than pls hit me up with a 
+ - Icons are from the internet and if you are the owner of them and dont want me to use them than pls create an issue on this repo :D
+ 
