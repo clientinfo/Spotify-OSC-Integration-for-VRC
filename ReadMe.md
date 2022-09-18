@@ -4,7 +4,7 @@ System requirements:
  - Unity 2019.4.31f1
  - Windows 10 x64 (others are not tested)
  - Active Internet Connection
- - Spotify Premium
+ - Spotify Premium & Spotify installed on the maschine
  
 Pic ingame:
 
