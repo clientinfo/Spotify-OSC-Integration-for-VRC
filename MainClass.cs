@@ -17,9 +17,9 @@ public class MainClass
     public static async Task Main()
     {
         //sets Console Title
-        Console.Title = "Spotify OSC Integration by Purple420";
+        Console.Title = "Spotify OSC Integration by 【Ａｍｎｅｓｙａ】 Credits to: ValdemarOrn, ChanyaVRC";
 
-        Console.WriteLine("Welcome to the Spotify OSC Integration App made by Purple420");
+        Console.WriteLine("Welcome to the Spotify OSC Integration App made by Ａｍｎｅｓｙａ Credits to: ValdemarOrn, ChanyaVRC");
 
         OscAvatarConfig? avatarConfig = null;
 
