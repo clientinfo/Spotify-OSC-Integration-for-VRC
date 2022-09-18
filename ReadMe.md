@@ -1,5 +1,10 @@
 This Repo Provides everything you need to Integrate Spotify Controlls to your Avatar
 
+System requirements:
+ - Unity 2019.4.31f1
+ - Windows 10 x64 (others are not tested)
+ - Active Internet Connection
+ 
 Pic ingame:
 
 ![image](https://user-images.githubusercontent.com/54999075/190461308-42b1dd1d-bfa2-49bf-b0a0-801a20a7b487.png)
@@ -11,7 +16,8 @@ Pic from tool:
 ![image](https://user-images.githubusercontent.com/54999075/190462284-5469ec16-a04d-426f-b581-2695bb65ad75.png)
 
 
-
+Instructions
+-----------------------
 
 Unity Usage:
 1. Add the needed parameters to your avi (you can find it in "Spotify OSC Integration/Avatar Menu Stuff")
