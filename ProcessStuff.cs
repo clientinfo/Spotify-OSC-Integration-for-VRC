@@ -4,7 +4,7 @@ namespace Spotify_OSC_Integration
 {
     public class ProcessStuff
     {
-        //Name says everything
+        //Name says everything t
         public static void closeProcessByName(string processName)
         {
             DateTime now = DateTime.Now;
