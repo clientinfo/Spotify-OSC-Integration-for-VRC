@@ -51,7 +51,7 @@ What if nothing happens after the unity steps?
 12. Everything should work now
 
 Bug:
- - Textbox is not disapearing when switching avis
+ - tool breaks when switching between to many avis
 
 Disclaimer: I do not Provide Updates if that tool breaks and wont provide any support if you dont know what to do.
 
