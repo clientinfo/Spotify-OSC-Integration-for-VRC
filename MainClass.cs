@@ -17,7 +17,7 @@ public class MainClass
     public static async Task Main()
     {
         //sets Console Title
-        Console.Title = "Spotify OSC Integration by MrNiceGuy2021 Credits to: ValdemarOrn, ChanyaVRC";
+        Console.Title = "Spotify OSC Integration by clientinfo Credits to: ValdemarOrn, ChanyaVRC";
 
         Console.WriteLine("Welcome to the Spotify OSC Integration App made by MrNiceGuy2021 Credits to: ValdemarOrn, ChanyaVRC");
 
